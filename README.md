@@ -50,3 +50,9 @@ pie run --path target/wasm32-wasip2/release/my_first_inferlet.wasm --manifest Pi
 ## Background
 
 This project connects to research on token-efficient LLM memory architectures (DSPM). The token budget enforcement pattern demonstrated here is a building block for larger systems that need fine-grained control over inference resource consumption.
+
+
+
+DEMO:
+<img width="1919" height="989" alt="image" src="https://github.com/user-attachments/assets/f962dd62-bad7-40ad-a322-5e7ca747a125" />
+
